@@ -1,3 +1,3 @@
 # CAP
 
-Type:  ./cap <instList> <numb_of_runs>
+Type:  ./cap instList.txt <numb_of_runs>
